@@ -1,2 +1,2 @@
-# Training_Landing-2
+# О проекте
 Лендинг с адаптивом без JS, базовое SEO без JSON-LD
